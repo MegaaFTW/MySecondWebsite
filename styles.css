@@ -1,0 +1,161 @@
+#title{
+    background-color: #ff4c68;
+}
+
+h1{
+    font-family:"Montserrat";
+    font-size: 3.5em;
+    line-height: 1.5;
+    font-weight: 900;
+    color: white;
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+.logoo{
+    height: "3px";
+}
+
+.navbar-brand{
+    font-size: 2.5em;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    padding: 0px;
+}
+.nav-item{
+    padding: 0px 18px;
+    font-size: 1.2em;
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+
+
+.dog{
+    transform: rotate(25deg);
+    width: 340px;
+    position: absolute;
+    right: 25%;
+}
+
+.Download-Button{
+    margin: 5% 3% 5% 0%;
+}
+
+#features{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 100px;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+}
+
+.fa-solid{
+    color: #ef8172;
+    padding-bottom: 15px;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-style: black;
+    font-weight: 600;
+}
+p{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    color: #8f8f8f;
+}
+
+.fa-solid:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+   
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 3em;
+
+}
+.testimonial-image{
+    width: 8%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5% 
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.containerr{
+    padding: 2% 3%;
+}
+
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+.dog{
+    position: static;
+    transform: rotate(0deg);
+    
+}
+}
+
+#cta{
+    background-color: #ff4c68;
+    color: white;
+    padding: 5% 15%;
+    text-align: center;
+
+}
+
+.buttonss{
+    margin: 20px 20px 0px 0px;
+}
+
+#footer{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    padding-top: 1%;
+}
+
+
+.bb{
+    font-weight: 800;
+
+}
+
+.fa-brands{
+    margin: 10px;
+}
